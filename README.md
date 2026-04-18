@@ -96,6 +96,8 @@ Power BI para el análisis final de KPIs.
 ## Alcance Temporal
 La herramienta debe permitir una extracción semanal con una ventana retrospectiva de hasta un mes, asegurando que los datos sean vigentes para el análisis de tendencias.
 
+![Roadmap](Roadmap.png)
+
 # 2. Arquitectura de la Solución (Esqueleto Base)
 
 La arquitectura se divide en capas funcionales para garantizar que sea aplicable a cualquier tema de búsqueda:
