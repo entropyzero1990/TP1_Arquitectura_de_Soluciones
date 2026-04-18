@@ -62,6 +62,7 @@ graph TD;
     style Ingesta fill:none,stroke:#444,stroke-dasharray: 5 5;
     style Analisis fill:none,stroke:#444,stroke-dasharray: 5 5;
 ```
+![Diagrama de Arquitectura](Diagrama%20de%20Arquitectura.png)
 
 # 1. Identificación de Requerimientos y Recursos
 
