@@ -72,6 +72,8 @@ graph TD;
 
 * Se aclara que, si bien el desarrollo requiere un perfil de Data Science, la operación final y el consumo de información están diseñados para ser autogestionados por un usuario final a través de la interfaz visual.
 
+[Mockup del Prototipo](https://cot-maroon-75789898.figma.site/)
+
 ## Recursos de Software
 
 **Navegador Brave:** 
@@ -176,7 +178,6 @@ Esta solución supera las limitaciones de la API oficial de X al permitir:
 
 **Mantenibilidad:** Al utilizar una estructura basada en clases y diagramas claros, cualquier cambio futuro puede gestionarse mediante control de versiones y solo requerirá modificar la clase de “Ingesta”, sin afectar el resto del sistema.
 
-[Mockup del Prototipo](https://cot-maroon-75789898.figma.site/)
 
 
 
