@@ -158,7 +158,7 @@ Se establece un protocolo de Extracción Ética, limitando la frecuencia de cons
 
 # 5. Observaciones de Implementación
 
-**Modelo de Entrega (Informes vs. Script):** 
+**Modelo de Entrega (Informes):** 
 
 Es importante destacar que el cliente no recibe un script para ejecutar, sino un servicio de inteligencia. La arquitectura está diseñada para que el especialista procese la solicitud del cliente sobre cualquier tema, aplique los filtros regionales y entregue un informe cerrado o un acceso al dashboard de Power BI.
 
