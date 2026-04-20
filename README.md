@@ -9,6 +9,8 @@
 
 ### La arquitectura diseñada para este proyecto responde a la necesidad de transformar grandes volúmenes de datos no estructurados provenientes de redes sociales en información estratégica accionable. Se ha estructurado bajo un modelo de Capas de Servicio, lo que garantiza que el sistema sea modular, escalable.
 
+![Diagrama de Arquitectura](Diagrama%20de%20Arquitectura.png)
+
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
 graph TD;
@@ -62,7 +64,6 @@ graph TD;
     style Ingesta fill:none,stroke:#444,stroke-dasharray: 5 5;
     style Analisis fill:none,stroke:#444,stroke-dasharray: 5 5;
 ```
-![Diagrama de Arquitectura](Diagrama%20de%20Arquitectura.png)
 
 # 1. Identificación de Requerimientos y Recursos
 
