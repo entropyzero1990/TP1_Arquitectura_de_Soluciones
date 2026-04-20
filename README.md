@@ -174,7 +174,7 @@ Es importante destacar que el cliente no recibe un script para ejecutar, sino un
 
 **Estandarización:** Se ratifica el uso de CSV como el "contrato de datos" estándar. Esto asegura que la solución sea compatible con cualquier otra herramienta de visualización en el futuro.
 
-**Herramienta para No Especialistas:** Se debe entregar un script ejecutable o un archivo de configuración simple donde el usuario solo cambie el nombre de **"URL del Post"** entre comillas.
+**Herramienta para No Especialistas:** Se debe entregar un Informe, que podría ser un tablero gráfico en Power BI.
 
 **Mantenibilidad:** Al utilizar una estructura basada en clases y diagramas claros, cualquier cambio futuro puede gestionarse mediante control de versiones y solo requerirá modificar la clase de “Ingesta”, sin afectar el resto del sistema.
 
