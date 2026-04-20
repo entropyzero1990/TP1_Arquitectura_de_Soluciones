@@ -164,7 +164,7 @@ Es importante destacar que el cliente no recibe un script para ejecutar, sino un
 
 **Ventaja Competitiva:** 
 
-Esta solución supera las limitaciones de la API oficial de X al permitir:
+*No tiene límites en cuanta la cantidad de Post que podemos analizar.
 
 * Filtros personalizados de limpieza de ruido.
 
